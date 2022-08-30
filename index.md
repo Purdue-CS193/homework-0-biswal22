@@ -1,6 +1,6 @@
 ## Aniket Biswal's First CS193 Homework
 
-# my favorite things about this class
+### my favorite things about this class
 - The teachers are funny!
 - I like the material
 
